@@ -11,7 +11,7 @@ Field      | Value
 ---------- | -----------------
 Name       | Mauro Mendoza
 Student Nº | 17639743
-Mail       | msmendoza@uc.cl
+Mail       | [msmendoza@uc.cl](mailto:msmendoza@uc.cl)
 
 ## Comments
 
