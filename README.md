@@ -17,7 +17,7 @@ Mail       | [msmendoza@uc.cl](mailto:msmendoza@uc.cl)
 
 Week |          Status          | Markdown
 ---- | -------------------------|-----------
-1    | :hourglass_flowing_sand: | [Comment](https://github.com/msmendoza/lecturasIIC3633-2021/blob/master/Comments/lectura1.MD)
+1    | :white_check_mark:       | [Comment](https://github.com/msmendoza/lecturasIIC3633-2021/blob/master/Comments/lectura1.MD)
 2    | :hourglass_flowing_sand: | [Comment](https://github.com/msmendoza/lecturasIIC3633-2021)
 3    | :hourglass_flowing_sand: | [Comment](https://github.com/msmendoza/lecturasIIC3633-2021)
 4    | :hourglass_flowing_sand: | [Comment](https://github.com/msmendoza/lecturasIIC3633-2021)
