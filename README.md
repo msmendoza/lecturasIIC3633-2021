@@ -16,7 +16,7 @@ Mail       | [msmendoza@uc.cl](mailto:msmendoza@uc.cl)
 ## Comments
 
 Week |          Status          | Markdown
----- | -------------------------|--------
+---- | -------------------------|-----------
 1    | :hourglass_flowing_sand: | [Comment](https://github.com/msmendoza/lecturasIIC3633-2021/blob/master/Comments/Week%201.md)
 2    | :hourglass_flowing_sand: | [Comment](https://github.com/msmendoza/lecturasIIC3633-2021)
 3    | :hourglass_flowing_sand: | [Comment](https://github.com/msmendoza/lecturasIIC3633-2021)
@@ -27,8 +27,8 @@ Week |          Status          | Markdown
 
 ## Practical Exercises
 
-Exercise |          Status          | Markdown
--------- | ------------------------ | --------
+Exercise |          Status          | Notebook
+-------- | ------------------------ | ---------
 1        | :hourglass_flowing_sand: | [Exercise](https://github.com/msmendoza/lecturasIIC3633-2021)
 2        | :hourglass_flowing_sand: | [Exercise](https://github.com/msmendoza/lecturasIIC3633-2021)
 3        | :hourglass_flowing_sand: | [Exercise](https://github.com/msmendoza/lecturasIIC3633-2021)
