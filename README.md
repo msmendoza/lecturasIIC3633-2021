@@ -1,9 +1,15 @@
-# Weekly Papers Comments
+# Weekly Papers Comments and Practical Examples
+
+**IIC3633 - Recommender Systems - 2021-2**
+
+_Pontificia Universidad Católica de Chile_
+
 
 ## Student data
 
-Name       | Mauro Mendoza
+Field      | Value
 ---------- | -----------------
+Name       | Mauro Mendoza
 Student Nº | 17639743
 Mail       | msmendoza@uc.cl
 
@@ -18,6 +24,8 @@ Week |          Status          | Markdown
 5    | :hourglass_flowing_sand: | [Comment](https://github.com/msmendoza/lecturasIIC3633-2021)
 6    | :hourglass_flowing_sand: | [Comment](https://github.com/msmendoza/lecturasIIC3633-2021)
 7    | :hourglass_flowing_sand: | [Comment](https://github.com/msmendoza/lecturasIIC3633-2021)
+
+## Practical Examples
 
 Exercise |          Status          | Markdown
 -------- | ------------------------ | --------
