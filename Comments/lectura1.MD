@@ -16,6 +16,12 @@ for users (**explanation**) and the problem of **security and privacy** associat
 "user with unusual tastes" that so much improves the model (in a **novel** recommendation)
 way but also exposes other users.
 
+From the presented challenges I encounter in the document, I was immensely attracted
+to the one related to **Dimensionality Reduction Algorithms**. Not because of the
+intrinsic reduction on computation time and requirements, but for the **mathematical
+foundations** (optimization and advanced linear algebra) that must be addressed in order to effectively extract from this step a
+minimum of **prediction accuracy**.
+
 I must add that just one thing wasn't right away clear from the paper, in the
 section of **Item-based Nearest Neighbor Algorithm**, in **Equation 6**,
 
@@ -27,3 +33,15 @@ is incorrect because that's exactly what the algorithm tries to predict with
 Instead, I think that the before-mentioned expression should be replaced with
 <img src="https://render.githubusercontent.com/render/math?math=\, r_{uj}"> to make
 sense again.
+
+Personal experiences with CF systems I encounter every day are related to the **TIDAL
+App** for high-quality music. When I first used the app, I was asked a few questions
+about favourite genres and artists, and yes, at the beginning of my experience
+I didn't have much more than a few non-personalized playlist recommendations dictated
+just by the responses to the initial questions. But in time, after I rated a lot of
+songs (rating is binary love/unloved), I'd say 30-50+, a lot of personalized playlists
+appeared with song I really liker but hadn't added to my personal playlist or downloaded
+yet. In addition to this, another playlist came around titled "Your Daily Discovery" with
+songs I didn't know but really captured my attention and that's something that happens
+almost every day. In that sense I can say that TIDAL has a recommender system
+with high _serendipity_ properties.
