@@ -1,4 +1,4 @@
-# Weekly Papers Comments and Practical Examples
+# Weekly Papers Comments and Practical Exercises
 
 **IIC3633 - Recommender Systems - 2021-2**
 
@@ -25,7 +25,7 @@ Week |          Status          | Markdown
 6    | :hourglass_flowing_sand: | [Comment](https://github.com/msmendoza/lecturasIIC3633-2021)
 7    | :hourglass_flowing_sand: | [Comment](https://github.com/msmendoza/lecturasIIC3633-2021)
 
-## Practical Examples
+## Practical Exercises
 
 Exercise |          Status          | Markdown
 -------- | ------------------------ | --------
