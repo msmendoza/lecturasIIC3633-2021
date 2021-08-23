@@ -16,6 +16,8 @@ for users (**explanation**) and the problem of **security and privacy** associat
 "user with unusual tastes" that so much improves the model (in a **novel** recommendation)
 way but also exposes other users.
 
+In the section of **Practical Challenges of User-Based Algorithms** when talking about ways to reduce the time and memory needed for computing the best user’s neighborhood, authors fail to explain why clustering techniques become **unstable and unintuitive** when distance functions are not valid and are not true mathematical metrics because of the . I understand the mathematical foundations of why the function is no more a metric when the triangle equality does not hold (one of the three needed), but I fail to imagine the consequences in term of time, memory requirements and prediction accuracy.
+
 From the presented challenges I encounter in the document, I was immensely attracted
 to the one related to **Dimensionality Reduction Algorithms**. Not because of the
 intrinsic reduction on computation time and requirements, but for the **mathematical
