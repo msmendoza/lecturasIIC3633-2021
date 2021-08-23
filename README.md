@@ -7,7 +7,7 @@ Name       | Mauro Mendoza
 Student Nº | 17639743
 Mail       | msmendoza@uc.cl
 
-## Content
+## Comments
 
 Week |          Status          | Markdown
 ---- | -------------------------|--------
