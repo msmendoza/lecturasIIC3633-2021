@@ -44,7 +44,8 @@ regularization.
 Knowing the advantages of the MF model, in **[2]** authors discussed the
 preconditioning technique for helping iterative methods to solve linear equations
 and two other ways to solve the SVD problem: Coordinate Descent (CD) and Conjugate
-Gradient (CG).
+Gradient (CG). CG proves to reduce the training time as well as increasing recall
+when using higher number of factors.
 
 I found the explanations of the update of each parameter in the methods
 were explained thoroughly and consider as well that taking into account implicit
