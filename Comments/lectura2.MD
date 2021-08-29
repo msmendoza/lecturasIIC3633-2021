@@ -24,7 +24,10 @@ thing that if they're using the same records for training and testing, then
 are cheating or falling into a fallacy.
 
 Authors fail to explain in equation (7)
-<img src="https://render.githubusercontent.com/render/math?math=\, \hat{r}_{ui}(t) = \mu + b_i(t) + b_u(t) + q_i^Tp_u(t)">
+<img src="https://render.githubusercontent.com/render/math?math=\, \hat{r}_{ui}(t) = \mu"> +
+<img src="https://render.githubusercontent.com/render/math?math=\, b_i(t)"> +
+<img src="https://render.githubusercontent.com/render/math?math=\, b_u(t)"> +
+<img src="https://render.githubusercontent.com/render/math?math=\, q_i^Tp_u(t)">
 why the term <img src="https://render.githubusercontent.com/render/math?math=\, \mu">
 remains constant despite the temporal dynamics. To my knowledge, overall average rating
 over all movies must change as time passes, so
