@@ -29,7 +29,7 @@ Week |          Status          | Markdown
 
 Exercise |          Status          | Notebook
 -------- | ------------------------ | ---------
-1        | :hourglass_flowing_sand: | [Exercise](https://github.com/msmendoza/lecturasIIC3633-2021)
+1        | :white_check_mark:       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/msmendoza/lecturasIIC3633-2021/blob/master/Exercises/01_Most_Popular_y_Item_Average_Rating.ipynb)
 2        | :hourglass_flowing_sand: | [Exercise](https://github.com/msmendoza/lecturasIIC3633-2021)
 3        | :hourglass_flowing_sand: | [Exercise](https://github.com/msmendoza/lecturasIIC3633-2021)
 4        | :hourglass_flowing_sand: | [Exercise](https://github.com/msmendoza/lecturasIIC3633-2021)
