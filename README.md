@@ -19,7 +19,7 @@ Week |          Status          | Markdown
 ---- | -------------------------|-----------
 1    | :white_check_mark:       | [Comment](https://github.com/msmendoza/lecturasIIC3633-2021/blob/master/Comments/lectura1.MD)
 2    | :white_check_mark:       | [Comment](https://github.com/msmendoza/lecturasIIC3633-2021/blob/master/Comments/lectura2.MD)
-3    | :hourglass_flowing_sand: | [Comment](https://github.com/msmendoza/lecturasIIC3633-2021)
+3    | :white_check_mark:       | [Comment](https://github.com/msmendoza/lecturasIIC3633-2021/blob/master/Comments/lectura3.MD)
 4    | :hourglass_flowing_sand: | [Comment](https://github.com/msmendoza/lecturasIIC3633-2021)
 5    | :hourglass_flowing_sand: | [Comment](https://github.com/msmendoza/lecturasIIC3633-2021)
 6    | :hourglass_flowing_sand: | [Comment](https://github.com/msmendoza/lecturasIIC3633-2021)
