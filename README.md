@@ -21,9 +21,9 @@ Week |          Status          | Markdown
 2    | :white_check_mark:       | [Comment](https://github.com/msmendoza/lecturasIIC3633-2021/blob/master/Comments/lectura2.MD)
 3    | :white_check_mark:       | [Comment](https://github.com/msmendoza/lecturasIIC3633-2021/blob/master/Comments/lectura3.MD)
 4    | :white_check_mark:       | [Comment](https://github.com/msmendoza/lecturasIIC3633-2021/blob/master/Comments/lectura4.MD)
-5    | :hourglass_flowing_sand: | [Comment](https://github.com/msmendoza/lecturasIIC3633-2021/blob/master/Comments/lectura5.MD)
-6    | :hourglass_flowing_sand: | [Comment](https://github.com/msmendoza/lecturasIIC3633-2021)
-7    | :hourglass_flowing_sand: | [Comment](https://github.com/msmendoza/lecturasIIC3633-2021)
+5    | :white_check_mark:       | [Comment](https://github.com/msmendoza/lecturasIIC3633-2021/blob/master/Comments/lectura5.MD)
+6    | :white_check_mark:       | [Comment](https://github.com/msmendoza/lecturasIIC3633-2021/blob/master/Comments/lectura5.MD)
+7    | :hourglass_flowing_sand: | [Comment](https://github.com/msmendoza/lecturasIIC3633-2021/blob/master/Comments/lectura5.MD)
 
 ## Practical Exercises
 
